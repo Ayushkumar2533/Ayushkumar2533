@@ -1,11 +1,13 @@
 # 💫 About Me:
 # Hi 👋, I'm Ayush Kumar
 <small>
-- 🌱 Currently learning **DevOps, AWS and Web Development**.
-- 💻 Building projects using **HTML, CSS, JavaScript, Git, and GitHub**.
-- ☁️ Exploring **Cloud Computing and AWS Services**.
-- 🐧 Interested in **Linux Administration and Automation**.
-</small> 📚 Always eager to learn new technologies and improve my skills.<br>-<br>### 🛠️ Technologies & Tools<br>- HTML, CSS, JavaScript<br>- Git & GitHub<br>- Linux<br>- AWS<br>- Nginx & Apache<br>- Docker (Learning)<br>- CI/CD & DevOps Tools (Learning)<br>
+-<br>🌱 Currently learning **DevOps, AWS and Web Development.<br>
+-<br>💻 Building projects using **HTML, CSS, JavaScript, Git, and GitHub.<br>
+-<br>☁️ Exploring **Cloud Computing and AWS Services.<br>
+-<br>🐧 Interested in **Linux Administration and Automation.<br>
+</small>
+📚 Always eager to learn new technologies and improve my skills.
+Technologies & Tools<br>- HTML, CSS, JavaScript<br>- Git & GitHub<br>- Linux<br>- AWS<br>- Nginx & Apache<br>- Docker (Learning)<br>- CI/CD & DevOps Tools (Learning)<br>
 
 
 ## 🌐 Socials:
