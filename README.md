@@ -2,7 +2,6 @@
 # Hi, I'm Ayush Kumar
 <small>
 <br>🌱 Currently learning DevOps, AWS and Web Development.<br>
-<br>💻 Building projects using HTML, CSS, JavaScript, Git, and GitHub.<br>
 <br>☁️ Exploring Cloud Computing and AWS Services.<br>
 <br>🐧 Interested in Linux Administration and Automation.<br>
 </small>
