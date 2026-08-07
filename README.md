@@ -1,14 +1,11 @@
 # 💫 About Me:
 # Hi, I'm Ayush Kumar
 <small>
-<br>🌱 Currently learning DevOps, AWS and Web Development.<br>
+<br>🌱 Currently learning DSA and Web Dev <br>
 <br>☁️ Exploring Cloud Computing and AWS Services.<br>
-<br>🐧 Interested in Linux Administration and Automation.<br>
 </small>
 📚 Always eager to learn new technologies and improve my skills.
-Technologies & Tools<br>- HTML, CSS, JavaScript<br>- Git & GitHub<br>- Linux<br>- AWS<br>- Nginx & Apache<br>- Docker (Learning)<br>- CI/CD & DevOps Tools (Learning)<br>
-
-
+T
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_._ayush01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-kumar2533) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushkumar2533@gmail.com) 
 
