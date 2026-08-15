@@ -17,6 +17,12 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Ayushkumar2533&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
 # Github Analysis:
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1121e8f5a70067147805751ee871a3a58d40fe00567596dcc4322ddfb217b428/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d6d6f6869746b756d686172267468656d653d72656163742d6461726b26686964655f626f726465723d7472756526617265613d7472756526637573746f6d5f7469746c653d4d6f68697425323773253230436f6e747269627574696f6e2532304772617068"><img width="96%" src="https://camo.githubusercontent.com/1121e8f5a70067147805751ee871a3a58d40fe00567596dcc4322ddfb217b428/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d6d6f6869746b756d686172267468656d653d72656163742d6461726b26686964655f626f726465723d7472756526617265613d7472756526637573746f6d5f7469746c653d4d6f68697425323773253230436f6e747269627574696f6e2532304772617068" alt="Contribution graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushkumar2533&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;custom_title=Mohit%27s%20Contribution%20Graph" style="max-width: 100%;"></a>
-
+<h2 align="center">📊 My Contribution Graph</h2>
+<p align="center">
+  <img
+    width="96%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushkumar2533&theme=react-dark&hide_border=true&area=true&custom_title=Ayush%27s%20Contribution%20Graph"
+    alt="Ayush's Contribution Graph"
+  />
+</p>
 
