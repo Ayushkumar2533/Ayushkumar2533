@@ -3,7 +3,6 @@
 # Hi 👋, I'm Ayush Kumar
 ![Profile Views](https://komarev.com/ghpvc/?username=Ayushkumar2533&color=blue&style=flat)
 
-
 <small>
 <br>🌱 Currently learning DSA and Web Dev <br>
 <br>☁️ Exploring Cloud Computing and AWS Services.<br>
